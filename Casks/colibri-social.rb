@@ -1,8 +1,8 @@
 cask "colibri-social" do
-  version "0.1.0-rc.2"
-  sha256 "54119426ec52bbd96f5484a496b5fe5d7b5ff3bd44ee533969869c2cc77523c0"
+  version "0.1.0-rc.3"
+  sha256 "caa084930d983ccb693fb4865a475586152d009e31893e4c0b94222bc322c600"
 
-  url "https://github.com/colibri-social/colibri.social/releases/download/v0.1.0-rc.2/Colibri.Social_0.1.0-rc.2_universal.dmg"
+  url "https://github.com/colibri-social/colibri.social/releases/download/v0.1.0-rc.3/Colibri.Social_0.1.0-rc.3_universal.dmg"
   name "Colibri Social"
   desc "Next-generation social chat app built on the AT Protocol"
   homepage "https://colibri.social"
